@@ -1,3 +1,3 @@
-#Simple chat app
+# Simple chat app
 
 first app ever ;)
