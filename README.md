@@ -10,6 +10,8 @@ A Simplest chat app using [socket.io](https://socket.io/) Library.
 
 2. Nodejs v8.10.0
 
+3. You need to know something.
+
 ### Install
 
 1. ``` git clone https://github.com/sanketsingh24/chat-app.git ``` to create a local copy.
